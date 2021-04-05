@@ -101,7 +101,7 @@ namespace Interfaz_MADEGOM
             try
             {
                 Func.AddLog("Inicio");
-                Download();  //*
+             //   Download();  //*
 
                 if (ConectarBaseSAP())
                 {
